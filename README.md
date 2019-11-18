@@ -12,3 +12,12 @@ Run ```make```
 
 Run ```./fillit [file]```
 
+Example: 
+
+```
+./fillit samples/test.txt
+DDAA
+CDDA
+CCCA
+BBBB
+```
